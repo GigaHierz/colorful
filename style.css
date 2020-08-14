@@ -28,7 +28,7 @@ p {
   justify-content: center;
 }
 .text1 {
-  animation: pulse 5s infinite;
+  animation: pulse 8s infinite;
 }
 @keyframes pulse {
   0% {
@@ -50,7 +50,7 @@ p {
   }
 }
 .text3 {
-  animation: pulse2 5s infinite;
+  animation: pulse2 8s infinite;
 
 }
 @keyframes pulse2 {
@@ -77,7 +77,7 @@ p {
  }
 .text5 {
   background-color: #f0f1b6;
-  animation: pulse4 5s infinite;
+  animation: pulse4 8s infinite;
 
 }
 @keyframes pulse4 {
@@ -101,7 +101,7 @@ p {
    }
  }
 .text7 {
-   animation: pulse6 5s infinite;
+   animation: pulse6 8s infinite;
 
 }
 @keyframes pulse6 {
@@ -113,7 +113,7 @@ p {
    }
  }
 .text8 {
-   animation: pulse7 5s infinite;
+   animation: pulse7 8s infinite;
 
 }
 @keyframes pulse7 {
@@ -125,7 +125,7 @@ p {
    }
  }
 .text9 {
-   animation: pulse8 5s infinite;
+   animation: pulse8 6s infinite;
 
 }
 @keyframes pulse8 {
@@ -149,7 +149,7 @@ p {
    }
  }
 .text11 {
-   animation: pulse10 5s infinite;
+   animation: pulse10 8s infinite;
 }
 @keyframes pulse10 {
    0% {
